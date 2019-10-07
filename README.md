@@ -1,2 +1,2 @@
-# -Mekan-Kontroll-Otonom-Ara-Tasar-m-
+# Ic-Mekan-Kontrolu-icin-Otonom-Arac-Tasarimi-
 Bitirme Tezi Projesi
